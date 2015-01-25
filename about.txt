@@ -1,0 +1,7 @@
+Billeder af Tabel og Simulation - folderen, består af billeder fra min simulation samt min tabel.
+src - folderen, består af selve kode-delen af programmet.
+Udskrift-Unittests - folderen, består af de forskellige udskrifter fra mine unittests.
+MVC_1.png er et billede bestående af Model-View-Control modellen, og hvordan mine klasser passer ind i den.
+UML_1.png er et billede af mit UML-diagram.
+OOPD2015-Rapport.pdf er rapport delen af min opgave.
+TestSkemaer.pdf er min redegørelse for mine tests.

@@ -1,0 +1,3 @@
+Simulation_billede og Simulation_billede_1 er billeder fra forskellige tidspunkter i simulationen.
+Tabel_billede er et billede af tabellen.
+Tabel_billede_udsnit_1 og 2, er billeder brugt i rapporten til at illustrere unøjagtigheden.

@@ -1,0 +1,2 @@
+Udskrifter for kørsler af de forskellige unit tests.
+De er også med i "TestSkemaer.pdf".
